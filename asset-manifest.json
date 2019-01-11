@@ -1,15 +1,15 @@
 {
-  "main.css": "/contactmanager/static/css/main.da282eba.chunk.css",
-  "main.js": "/contactmanager/static/js/main.ae44d176.chunk.js",
-  "main.js.map": "/contactmanager/static/js/main.ae44d176.chunk.js.map",
-  "static/css/1.e11be819.chunk.css": "/contactmanager/static/css/1.e11be819.chunk.css",
-  "static/js/1.39053c08.chunk.js": "/contactmanager/static/js/1.39053c08.chunk.js",
-  "static/js/1.39053c08.chunk.js.map": "/contactmanager/static/js/1.39053c08.chunk.js.map",
-  "runtime~main.js": "/contactmanager/static/js/runtime~main.72aa8290.js",
-  "runtime~main.js.map": "/contactmanager/static/js/runtime~main.72aa8290.js.map",
-  "static/css/1.e11be819.chunk.css.map": "/contactmanager/static/css/1.e11be819.chunk.css.map",
-  "static/css/main.da282eba.chunk.css.map": "/contactmanager/static/css/main.da282eba.chunk.css.map",
-  "index.html": "/contactmanager/index.html",
-  "precache-manifest.67f43bd281233678a41be98e5478bf62.js": "/contactmanager/precache-manifest.67f43bd281233678a41be98e5478bf62.js",
-  "service-worker.js": "/contactmanager/service-worker.js"
+  "main.css": "/reactcontactmanager/static/css/main.da282eba.chunk.css",
+  "main.js": "/reactcontactmanager/static/js/main.7478dca0.chunk.js",
+  "main.js.map": "/reactcontactmanager/static/js/main.7478dca0.chunk.js.map",
+  "static/css/1.e11be819.chunk.css": "/reactcontactmanager/static/css/1.e11be819.chunk.css",
+  "static/js/1.39053c08.chunk.js": "/reactcontactmanager/static/js/1.39053c08.chunk.js",
+  "static/js/1.39053c08.chunk.js.map": "/reactcontactmanager/static/js/1.39053c08.chunk.js.map",
+  "runtime~main.js": "/reactcontactmanager/static/js/runtime~main.dbd5247a.js",
+  "runtime~main.js.map": "/reactcontactmanager/static/js/runtime~main.dbd5247a.js.map",
+  "static/css/main.da282eba.chunk.css.map": "/reactcontactmanager/static/css/main.da282eba.chunk.css.map",
+  "static/css/1.e11be819.chunk.css.map": "/reactcontactmanager/static/css/1.e11be819.chunk.css.map",
+  "index.html": "/reactcontactmanager/index.html",
+  "precache-manifest.4c7895aa845f70a6a6cb0d5cc409af76.js": "/reactcontactmanager/precache-manifest.4c7895aa845f70a6a6cb0d5cc409af76.js",
+  "service-worker.js": "/reactcontactmanager/service-worker.js"
 }
